@@ -2,4 +2,4 @@ config/
 __pycache__/
 utils.py
 test.py
-Metering_fetch_Dates.txt
+*.txt
